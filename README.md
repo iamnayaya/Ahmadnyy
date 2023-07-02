@@ -1,12 +1,17 @@
-👋 Hi, I'm Ahmad Hamisu.
+👋 Hi there, I'm Ahmad Nayaya, a frontend developer with a passion for creating innovative and user-friendly web applications. I specialize in HTML, CSS, and JavaScript, and I'm experienced in working with frontend frameworks like React, Angular, and Vue.js.
 
-👀 I'm a Software Engineer with a passion for developing innovative solutions. My skills include C++, Python, Java, Ruby, JavaScript, and more. I have experience in web development, database management, and software engineering.
+🌱 Currently, I'm focusing on expanding my expertise in React.js and exploring modern frontend tools like TypeScript and GraphQL. I'm always eager to learn and stay up-to-date with the latest frontend technologies and industry trends to deliver cutting-edge solutions.
 
-🌱 Currently, I'm focused on expanding my knowledge in React.js, Ruby on Rails, and Next.js. I'm always eager to learn and stay up-to-date with the latest technologies and industry trends.
+💼 In my previous role as a Frontend Developer at Bloomberg LP, I was involved in developing responsive and interactive web interfaces using HTML, CSS, and JavaScript frameworks. I collaborated closely with UI/UX designers to translate design mockups into functional user interfaces. Additionally, I optimized website performance and ensured cross-browser compatibility.
 
-💼 In my previous role as a Software Engineering Intern at BLZ Press & General Enterprises, I contributed to the development of web applications using Python, Java, C++, and JavaScript. I collaborated with cross-functional teams throughout the software development life cycle, designed RESTful APIs, and worked with databases.
+📫 You can reach me at ahmadynayaya@gmail.com or 08085122636. I'm open to exciting opportunities and collaborations in the frontend development field.
 
-📫 You can reach me at 1ahmadhnayaya@gmail.com or +2348164485961. I'm open to exciting collaboration opportunities in the software development field.
+Let's connect and create remarkable web experiences together!
+
+
+
+
+
 
 <!---
 Ahmadnyy/Ahmadnyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
