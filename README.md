@@ -1,18 +1,9 @@
-👋 Hi there, I'm Ahmad Hamisu, a Full Stack Developer with a passion for crafting innovative and user-friendly web applications. I possess a diverse skill set that covers both frontend and backend technologies, enabling me to handle all aspects of web development seamlessly.
+👋 Hi there, I'm Ahmad Nayaya, a frontend developer with a passion for creating innovative and user-friendly web applications. I specialize in HTML, CSS, and JavaScript, and I'm experienced in working with frontend frameworks like React, Angular, and Vue.js.
 
-💻 On the frontend, I am well-versed in HTML, CSS, and JavaScript, and I have extensive experience working with popular frontend frameworks such as React, Angular, and Vue.js. I can create responsive and interactive user interfaces that provide an exceptional user experience.
+🌱 Currently, I'm focusing on expanding my expertise in React.js and exploring modern frontend tools like TypeScript and GraphQL. I'm always eager to learn and stay up-to-date with the latest frontend technologies and industry trends to deliver cutting-edge solutions.
 
-🔧 As for the backend, I have expertise in server-side languages like Node.js, Python, or Ruby, along with experience using frameworks like Express, Flask, or Ruby on Rails. I can build robust APIs and handle data storage and manipulation efficiently.
+💼 In my previous role as a Frontend Developer at Bloomberg LP, I was involved in developing responsive and interactive web interfaces using HTML, CSS, and JavaScript frameworks. I collaborated closely with UI/UX designers to translate design mockups into functional user interfaces. Additionally, I optimized website performance and ensured cross-browser compatibility.
 
-🌐 Additionally, I have a good understanding of databases, both SQL and NoSQL, and can work with technologies like MySQL, PostgreSQL, MongoDB, or Firebase.
+📫 You can reach me at ahmadynayaya@gmail.com or +2348085122636. I'm open to exciting opportunities and collaborations in the frontend development field.
 
-📚 Furthermore, I am constantly expanding my knowledge by exploring modern tools like TypeScript and GraphQL, which allow me to build more scalable and maintainable applications.
-
-💼 In my previous role as a Full Stack Developer at Bloomberg LP, I successfully collaborated with cross-functional teams, seamlessly integrating frontend and backend components to deliver cutting-edge web solutions. I have experience in optimizing application performance, ensuring security, and maintaining high code quality through testing and code reviews.
-
-📫 You can reach me at nayayaahmad48@gmail.com or +2348085122636. I'm excited about new opportunities and collaborations in the realm of full stack development.
-
-<!---
-Ahmadnyy/Ahmadnyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect and create remarkable web experiences together!
